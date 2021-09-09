@@ -1,0 +1,12 @@
+.button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  min-width: 200px;
+  min-height: 100px;
+  background-color: rgb(139, 171, 212);
+  color: aliceblue;
+  border: solid aliceblue 2px;
+  font-size: 32px;
+}
